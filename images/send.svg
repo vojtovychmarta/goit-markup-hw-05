@@ -1,3 +1,7 @@
-<svg width="24" height="20" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <path d="M24 0 0 11.25l7.67 2.367L19.5 4.375l-8.998 10.116.007.003-.009-.003V20l4.301-4.182 5.45 1.682L24 0Z" fill="#fff"/>
+<svg aria-hidden="true" style="position: absolute; width: 0; height: 0; overflow: hidden;" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<symbol id="icon-send" viewBox="0 0 38 32">
+<path d="M38.4 0l-38.4 18 12.272 3.787 18.928-14.787-14.397 16.186 0.011 0.005-0.014-0.005v8.814l6.882-6.691 8.72 2.691 5.998-28z"></path>
+</symbol>
+</defs>
 </svg>

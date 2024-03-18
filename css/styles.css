@@ -478,6 +478,9 @@ margin-bottom: 16px;}
     letter-spacing: 0.04em;
     text-align: center;
     color: #fff;
+    min-width: 165px;
+    cursor: pointer;
+    border: none;
 
 }
 .button-subscribe-icon {
