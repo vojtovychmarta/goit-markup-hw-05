@@ -423,12 +423,15 @@ margin-bottom: 16px;}
     letter-spacing: 0.02em;
     margin: 0;
     color: #f4f4fd;}
-.footer-text {max-width: 264px;}
+.footer-text {
+    max-width: 264px;
+}
 
 .footer-subscribe {
     width: 453px;
     height: 80px;
 }
+
 
 .subscribe-title {
     margin-bottom: 16px;
@@ -456,7 +459,7 @@ margin-bottom: 16px;}
     color: #fff;
     padding-left: 16px;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
-    
+
 }
 .bottom-subscribe {
     display: flex;
